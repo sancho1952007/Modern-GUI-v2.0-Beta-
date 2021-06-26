@@ -20,4 +20,4 @@ And Gives More Style.
   </p>
   <br>
   
-<a href='https://github.com/sancho1952007/Modern-GUI-v2.0-Beta-/blob/0bedbde37d751de02ef2f87ca18c010844cd3b0f/Extras.txt#L9' target='_blank'>The v1.0 will not be released of Modern GUI (click here to know)</a>
+<a href='https://github.com/sancho1952007/Modern-GUI-v2.0-Beta-/blob/0bedbde37d751de02ef2f87ca18c010844cd3b0f/Extras.txt#L9' target='_blank'>🇹​🇭​🇪​ 🇻​1.0 🇼​🇮​🇱​🇱​ 🇳​🇴​🇹​ 🇧​🇪​ 🇷​🇪​🇱​🇪​🇦​🇸​🇪​🇩​ 🇴​🇫​ 🇲​🇴​🇩​🇪​🇷​🇳​ 🇬​🇺​🇮​ (🇨​🇱​🇮​🇨​🇰​ 🇭​🇪​🇷​🇪​ 🇹​🇴​ 🇰​🇳​🇴​🇼​)</a>
