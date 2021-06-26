@@ -18,4 +18,5 @@ And Gives More Style.
 2) Extract the downloaded zip file.<br>
 3) Use it !<br>
   </p>
-<p>The v1.0 Will not Be Released</a></p>
+  <br>
+<p>The v1.0 Will not Be Released</a>see why</p>
