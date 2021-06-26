@@ -7,3 +7,10 @@ And Gives More Style.
 
 ## License
 [MIT](https://github.com/sancho1952007/Modern-GUI-v2.0-Beta-/blob/main/LICENCE.txt)
+
+## How to Use
+<p>
+1) Download the zip file.<br>
+2) Extract the downloaded zip file.<br>
+3) Use it !<br>
+  </p>
