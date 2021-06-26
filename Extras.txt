@@ -1,0 +1,12 @@
+-- Please Distribute This Script with your tkinter App --
+
+This GUI is Built By Sancho Godinho(https://github.com/sancho1952007)
+This is version 2.0.
+
+Built-Using: Python/tkinter( https://python.org/ ).
+Image Credits: Flaticon ( https://flaticon.com/ ).
+
+The Version 1.0 will not be available.
+Due to lots of Bugs.
+
+======== Thank You For Downloading! ========
