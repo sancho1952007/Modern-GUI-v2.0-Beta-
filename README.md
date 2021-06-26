@@ -19,4 +19,5 @@ And Gives More Style.
 3) Use it !<br>
   </p>
   <br>
-<p>The v1.0 Will not Be Released</a>see why</p>
+  
+<a href='https://github.com/sancho1952007/Modern-GUI-v2.0-Beta-/blob/0bedbde37d751de02ef2f87ca18c010844cd3b0f/Extras.txt#L9' target='_blank'>The v1.0 will not be released of Modern GUI (click here to know)</a>
