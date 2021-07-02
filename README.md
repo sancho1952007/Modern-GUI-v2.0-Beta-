@@ -3,8 +3,8 @@
 Modern GUI is a GUI that gives a different title bar in Python/Tkinter.  
 And Gives More Style.
 
-![Alt text](https://i.ibb.co/RPvw6pz/Modern-GUI-v2-0-Beta.png "Screenshot of Modern GUI v2.0 (Beta)")
-![Alt text](https://i.ibb.co/fNbCSNW/Modern-GUI-v2-0-Beta-GIF.gif "GIF of Modern GUI v2.0 (Beta)")
+![Image](https://i.ibb.co/RPvw6pz/Modern-GUI-v2-0-Beta.png "Screenshot of Modern GUI v2.0 (Beta)")
+![Image](https://i.ibb.co/fNbCSNW/Modern-GUI-v2-0-Beta-GIF.gif "GIF of Modern GUI v2.0 (Beta)")
 #### Please Note: this GUI is not hangy. it's because of the screen recorder.
 <br>
 <br>
